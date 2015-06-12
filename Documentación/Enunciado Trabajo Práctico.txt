@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Enunciado del Trabajo Práctico
 
 Crear Proyecto Web "My Kiosco"
@@ -10,7 +9,4 @@ Registrar Mi Kiosco (Registro.aspx)
 Confirmar EMail (Confirmar.aspx) 
 ---------
 Login
-=======
-Enunciado del Trabajo PrÃ¡ctico
-(Completar!!!!)
->>>>>>> origin/master
+
