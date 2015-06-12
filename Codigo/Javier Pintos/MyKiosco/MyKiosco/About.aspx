@@ -11,5 +11,5 @@
         Desarrollado por Javier Pintos.
     </p>
     <p>
-        Para Prog. III - Desarrollo de Software - Instituto Superior Villa del Rosario</p>
+        Para Programación III - Tecnicatura Superior en Desarrollo de Software - Instituto Superior Villa del Rosario</p>
 </asp:Content>
