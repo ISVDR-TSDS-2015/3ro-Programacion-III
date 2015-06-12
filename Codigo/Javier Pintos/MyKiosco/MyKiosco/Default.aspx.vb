@@ -6,6 +6,6 @@
     End Sub
 
     Protected Sub btnRegistro_Click(ByVal sender As Object, ByVal e As EventArgs) Handles btnRegistro.Click
-
+        Response.Redirect("Registro.aspx")
     End Sub
 End Class
