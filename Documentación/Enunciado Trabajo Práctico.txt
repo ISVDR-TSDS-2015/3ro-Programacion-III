@@ -1,2 +1,11 @@
 Enunciado del Trabajo Práctico
-(Completar)
+
+Crear Proyecto Web "My Kiosco"
+Crear Master Page
+Página de Inicio (Default.aspx)
+Página de Enunciado (Enunciado.aspx)
+Acerca de (About.aspx)
+Registrar Mi Kiosco (Registro.aspx)
+Confirmar EMail (Confirmar.aspx) 
+---------
+Login
