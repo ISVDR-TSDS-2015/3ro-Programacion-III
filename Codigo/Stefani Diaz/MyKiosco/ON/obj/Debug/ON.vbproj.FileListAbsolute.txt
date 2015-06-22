@@ -1,0 +1,8 @@
+C:\Users\GitHub\3ro-Programacion-III\Codigo\Stefani Diaz\MyKiosco\ON\bin\Debug\ON.dll
+C:\Users\GitHub\3ro-Programacion-III\Codigo\Stefani Diaz\MyKiosco\ON\bin\Debug\ON.pdb
+C:\Users\GitHub\3ro-Programacion-III\Codigo\Stefani Diaz\MyKiosco\ON\bin\Debug\ON.xml
+C:\Users\GitHub\3ro-Programacion-III\Codigo\Stefani Diaz\MyKiosco\ON\obj\Debug\ON.Resources.resources
+C:\Users\GitHub\3ro-Programacion-III\Codigo\Stefani Diaz\MyKiosco\ON\obj\Debug\ON.vbproj.GenerateResource.Cache
+C:\Users\GitHub\3ro-Programacion-III\Codigo\Stefani Diaz\MyKiosco\ON\obj\Debug\ON.dll
+C:\Users\GitHub\3ro-Programacion-III\Codigo\Stefani Diaz\MyKiosco\ON\obj\Debug\ON.xml
+C:\Users\GitHub\3ro-Programacion-III\Codigo\Stefani Diaz\MyKiosco\ON\obj\Debug\ON.pdb
