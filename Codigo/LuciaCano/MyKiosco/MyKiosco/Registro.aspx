@@ -20,6 +20,8 @@
             </td>
             <td>
                 <asp:TextBox ID="txtNombre" runat="server"></asp:TextBox>
+                <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" 
+                    ControlToValidate="txtNombre" ErrorMessage="*" ForeColor="Red"></asp:RequiredFieldValidator>
             </td>
         </tr>
         <tr>
@@ -28,6 +30,8 @@
             </td>
             <td>
                 <asp:TextBox ID="txtUsuario" runat="server"></asp:TextBox>
+                <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" 
+                    ControlToValidate="txtUsuario" ErrorMessage="*" ForeColor="Red"></asp:RequiredFieldValidator>
             </td>
         </tr>
         <tr>
@@ -36,6 +40,8 @@
             </td>
             <td>
                 <asp:TextBox ID="txtPassword" runat="server" TextMode="Password"></asp:TextBox>
+                <asp:RequiredFieldValidator ID="RequiredFieldValidator3" runat="server" 
+                    ControlToValidate="txtPassword" ErrorMessage="*" ForeColor="Red"></asp:RequiredFieldValidator>
             </td>
         </tr>
         <tr>
@@ -44,6 +50,11 @@
             </td>
             <td>
                 <asp:TextBox ID="txtPassword2" runat="server" TextMode="Password"></asp:TextBox>
+                <asp:RequiredFieldValidator ID="RequiredFieldValidator5" runat="server" 
+                    ControlToValidate="txtPassword2" ErrorMessage="*" ForeColor="Red"></asp:RequiredFieldValidator>
+                <asp:CompareValidator ID="CompareValidator1" runat="server" 
+                    ControlToCompare="txtPassword2" ControlToValidate="txtPassword" 
+                    ErrorMessage="La contraseña no coincide"></asp:CompareValidator>
             </td>
         </tr>
         <tr>
@@ -52,6 +63,8 @@
             </td>
             <td>
                 <asp:TextBox ID="txtEMail" runat="server" TextMode="Email"></asp:TextBox>
+                <asp:RequiredFieldValidator ID="RequiredFieldValidator4" runat="server" 
+                    ControlToValidate="txtEMail" ErrorMessage="*" ForeColor="Red"></asp:RequiredFieldValidator>
             </td>
         </tr>
         <tr>

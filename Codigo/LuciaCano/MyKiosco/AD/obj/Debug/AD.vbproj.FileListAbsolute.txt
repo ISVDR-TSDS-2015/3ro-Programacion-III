@@ -1,0 +1,12 @@
+C:\GitHub\3ro-Programacion-III\Codigo\LuciaCano\MyKiosco\AD\bin\Debug\AD.dll
+C:\GitHub\3ro-Programacion-III\Codigo\LuciaCano\MyKiosco\AD\bin\Debug\AD.pdb
+C:\GitHub\3ro-Programacion-III\Codigo\LuciaCano\MyKiosco\AD\bin\Debug\AD.xml
+C:\GitHub\3ro-Programacion-III\Codigo\LuciaCano\MyKiosco\AD\bin\Debug\ON.dll
+C:\GitHub\3ro-Programacion-III\Codigo\LuciaCano\MyKiosco\AD\bin\Debug\ON.pdb
+C:\GitHub\3ro-Programacion-III\Codigo\LuciaCano\MyKiosco\AD\bin\Debug\ON.xml
+C:\GitHub\3ro-Programacion-III\Codigo\LuciaCano\MyKiosco\AD\obj\Debug\AD.vbprojResolveAssemblyReference.cache
+C:\GitHub\3ro-Programacion-III\Codigo\LuciaCano\MyKiosco\AD\obj\Debug\AD.Resources.resources
+C:\GitHub\3ro-Programacion-III\Codigo\LuciaCano\MyKiosco\AD\obj\Debug\AD.vbproj.GenerateResource.Cache
+C:\GitHub\3ro-Programacion-III\Codigo\LuciaCano\MyKiosco\AD\obj\Debug\AD.dll
+C:\GitHub\3ro-Programacion-III\Codigo\LuciaCano\MyKiosco\AD\obj\Debug\AD.xml
+C:\GitHub\3ro-Programacion-III\Codigo\LuciaCano\MyKiosco\AD\obj\Debug\AD.pdb
