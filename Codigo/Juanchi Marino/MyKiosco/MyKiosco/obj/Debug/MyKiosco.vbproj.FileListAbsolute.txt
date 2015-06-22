@@ -1,0 +1,16 @@
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\MyKiosco\MyKiosco\bin\MyKiosco.dll
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\MyKiosco\MyKiosco\bin\MyKiosco.pdb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\MyKiosco\MyKiosco\bin\MyKiosco.xml
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\MyKiosco\MyKiosco\obj\Debug\MyKiosco.Resources.resources
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\MyKiosco\MyKiosco\obj\Debug\MyKiosco.vbproj.GenerateResource.Cache
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\MyKiosco\MyKiosco\obj\Debug\MyKiosco.dll
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\MyKiosco\MyKiosco\obj\Debug\MyKiosco.xml
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\MyKiosco\MyKiosco\obj\Debug\MyKiosco.pdb
+C:\Users\Javier\Documents\Trabajo\Docencia\Instituto de Molineria\Tecnicatura en Desarrollo de Software\3er Nivel\Programación III\2015\Repositorio\3ro-Programacion-III\Codigo\Javier Pintos\MyKiosco\MyKiosco\bin\MyKiosco.dll
+C:\Users\Javier\Documents\Trabajo\Docencia\Instituto de Molineria\Tecnicatura en Desarrollo de Software\3er Nivel\Programación III\2015\Repositorio\3ro-Programacion-III\Codigo\Javier Pintos\MyKiosco\MyKiosco\bin\MyKiosco.pdb
+C:\Users\Javier\Documents\Trabajo\Docencia\Instituto de Molineria\Tecnicatura en Desarrollo de Software\3er Nivel\Programación III\2015\Repositorio\3ro-Programacion-III\Codigo\Javier Pintos\MyKiosco\MyKiosco\bin\MyKiosco.xml
+C:\Users\Javier\Documents\Trabajo\Docencia\Instituto de Molineria\Tecnicatura en Desarrollo de Software\3er Nivel\Programación III\2015\Repositorio\3ro-Programacion-III\Codigo\Javier Pintos\MyKiosco\MyKiosco\obj\Debug\MyKiosco.Resources.resources
+C:\Users\Javier\Documents\Trabajo\Docencia\Instituto de Molineria\Tecnicatura en Desarrollo de Software\3er Nivel\Programación III\2015\Repositorio\3ro-Programacion-III\Codigo\Javier Pintos\MyKiosco\MyKiosco\obj\Debug\MyKiosco.vbproj.GenerateResource.Cache
+C:\Users\Javier\Documents\Trabajo\Docencia\Instituto de Molineria\Tecnicatura en Desarrollo de Software\3er Nivel\Programación III\2015\Repositorio\3ro-Programacion-III\Codigo\Javier Pintos\MyKiosco\MyKiosco\obj\Debug\MyKiosco.dll
+C:\Users\Javier\Documents\Trabajo\Docencia\Instituto de Molineria\Tecnicatura en Desarrollo de Software\3er Nivel\Programación III\2015\Repositorio\3ro-Programacion-III\Codigo\Javier Pintos\MyKiosco\MyKiosco\obj\Debug\MyKiosco.xml
+C:\Users\Javier\Documents\Trabajo\Docencia\Instituto de Molineria\Tecnicatura en Desarrollo de Software\3er Nivel\Programación III\2015\Repositorio\3ro-Programacion-III\Codigo\Javier Pintos\MyKiosco\MyKiosco\obj\Debug\MyKiosco.pdb
