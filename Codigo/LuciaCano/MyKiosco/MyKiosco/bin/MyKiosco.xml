@@ -6,145 +6,25 @@ MyKiosco
 </name>
 </assembly>
 <members>
-<member name="F:MyKiosco.Registro.lblNombre">
+<member name="F:MyKiosco.ChangePassword.ChangeUserPassword">
 	<summary>
-Control lblNombre.
+Control ChangeUserPassword.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:MyKiosco.Registro.txtNombre">
+</member><member name="F:MyKiosco.Register.RegisterUser">
 	<summary>
-Control txtNombre.
+Control RegisterUser.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:MyKiosco.Registro.lblUsuario">
+</member><member name="F:MyKiosco.Register.RegisterUserWizardStep">
 	<summary>
-Control lblUsuario.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:MyKiosco.Registro.txtUsuario">
-	<summary>
-Control txtUsuario.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:MyKiosco.Registro.lblPassword">
-	<summary>
-Control lblPassword.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:MyKiosco.Registro.txtPassword">
-	<summary>
-Control txtPassword.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:MyKiosco.Registro.lblCPassword">
-	<summary>
-Control lblCPassword.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:MyKiosco.Registro.txtPassword2">
-	<summary>
-Control txtPassword2.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:MyKiosco.Registro.lblEmail">
-	<summary>
-Control lblEmail.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:MyKiosco.Registro.txtEMail">
-	<summary>
-Control txtEMail.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:MyKiosco.Registro.btnRegistrar">
-	<summary>
-Control btnRegistrar.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:MyKiosco.Site.HeadContent">
-	<summary>
-Control HeadContent.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:MyKiosco.Site.HeadLoginView">
-	<summary>
-Control HeadLoginView.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:MyKiosco.Site.NavigationMenu">
-	<summary>
-Control NavigationMenu.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:MyKiosco.Site.MainContent">
-	<summary>
-Control MainContent.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:MyKiosco._Default.btnRegistro">
-	<summary>
-Control btnRegistro.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:MyKiosco.Login.RegisterHyperLink">
-	<summary>
-Control RegisterHyperLink.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:MyKiosco.Login.LoginUser">
-	<summary>
-Control LoginUser.
+Control RegisterUserWizardStep.
 </summary>
 	<remarks>
 Campo generado automáticamente.
@@ -183,25 +63,193 @@ Para modificarlo, mueva la declaración del campo del archivo del diseñador al 
  Módulo usado para definir las propiedades que están disponibles en el espacio de nombres My para proyectos web.
  </summary>
 	<remarks></remarks>
-</member><member name="F:MyKiosco.Register.RegisterUser">
+</member><member name="F:MyKiosco.Registro.lblNombre">
 	<summary>
-Control RegisterUser.
+lblNombre control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyKiosco.Registro.txtNombre">
+	<summary>
+txtNombre control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyKiosco.Registro.RequiredFieldValidator1">
+	<summary>
+RequiredFieldValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyKiosco.Registro.lblUsuario">
+	<summary>
+lblUsuario control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyKiosco.Registro.txtUsuario">
+	<summary>
+txtUsuario control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyKiosco.Registro.RequiredFieldValidator2">
+	<summary>
+RequiredFieldValidator2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyKiosco.Registro.lblPassword">
+	<summary>
+lblPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyKiosco.Registro.txtPassword">
+	<summary>
+txtPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyKiosco.Registro.RequiredFieldValidator3">
+	<summary>
+RequiredFieldValidator3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyKiosco.Registro.lblCPassword">
+	<summary>
+lblCPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyKiosco.Registro.txtPassword2">
+	<summary>
+txtPassword2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyKiosco.Registro.RequiredFieldValidator5">
+	<summary>
+RequiredFieldValidator5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyKiosco.Registro.CompareValidator1">
+	<summary>
+CompareValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyKiosco.Registro.lblEmail">
+	<summary>
+lblEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyKiosco.Registro.txtEMail">
+	<summary>
+txtEMail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyKiosco.Registro.RequiredFieldValidator4">
+	<summary>
+RequiredFieldValidator4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyKiosco.Registro.btnRegistrar">
+	<summary>
+btnRegistrar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyKiosco.Login.RegisterHyperLink">
+	<summary>
+Control RegisterHyperLink.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:MyKiosco.Register.RegisterUserWizardStep">
+</member><member name="F:MyKiosco.Login.LoginUser">
 	<summary>
-Control RegisterUserWizardStep.
+Control LoginUser.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:MyKiosco.ChangePassword.ChangeUserPassword">
+</member><member name="F:MyKiosco._Default.btnRegistro">
 	<summary>
-Control ChangeUserPassword.
+Control btnRegistro.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:MyKiosco.Site.HeadContent">
+	<summary>
+Control HeadContent.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:MyKiosco.Site.HeadLoginView">
+	<summary>
+Control HeadLoginView.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:MyKiosco.Site.NavigationMenu">
+	<summary>
+Control NavigationMenu.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:MyKiosco.Site.MainContent">
+	<summary>
+Control MainContent.
 </summary>
 	<remarks>
 Campo generado automáticamente.

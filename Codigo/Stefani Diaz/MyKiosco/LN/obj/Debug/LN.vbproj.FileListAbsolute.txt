@@ -1,0 +1,15 @@
+C:\Users\GitHub\3ro-Programacion-III\Codigo\Stefani Diaz\MyKiosco\LN\bin\Debug\LN.dll
+C:\Users\GitHub\3ro-Programacion-III\Codigo\Stefani Diaz\MyKiosco\LN\bin\Debug\LN.pdb
+C:\Users\GitHub\3ro-Programacion-III\Codigo\Stefani Diaz\MyKiosco\LN\bin\Debug\LN.xml
+C:\Users\GitHub\3ro-Programacion-III\Codigo\Stefani Diaz\MyKiosco\LN\bin\Debug\AD.dll
+C:\Users\GitHub\3ro-Programacion-III\Codigo\Stefani Diaz\MyKiosco\LN\bin\Debug\ON.dll
+C:\Users\GitHub\3ro-Programacion-III\Codigo\Stefani Diaz\MyKiosco\LN\bin\Debug\AD.pdb
+C:\Users\GitHub\3ro-Programacion-III\Codigo\Stefani Diaz\MyKiosco\LN\bin\Debug\AD.xml
+C:\Users\GitHub\3ro-Programacion-III\Codigo\Stefani Diaz\MyKiosco\LN\bin\Debug\ON.pdb
+C:\Users\GitHub\3ro-Programacion-III\Codigo\Stefani Diaz\MyKiosco\LN\bin\Debug\ON.xml
+C:\Users\GitHub\3ro-Programacion-III\Codigo\Stefani Diaz\MyKiosco\LN\obj\Debug\LN.vbprojResolveAssemblyReference.cache
+C:\Users\GitHub\3ro-Programacion-III\Codigo\Stefani Diaz\MyKiosco\LN\obj\Debug\LN.Resources.resources
+C:\Users\GitHub\3ro-Programacion-III\Codigo\Stefani Diaz\MyKiosco\LN\obj\Debug\LN.vbproj.GenerateResource.Cache
+C:\Users\GitHub\3ro-Programacion-III\Codigo\Stefani Diaz\MyKiosco\LN\obj\Debug\LN.dll
+C:\Users\GitHub\3ro-Programacion-III\Codigo\Stefani Diaz\MyKiosco\LN\obj\Debug\LN.xml
+C:\Users\GitHub\3ro-Programacion-III\Codigo\Stefani Diaz\MyKiosco\LN\obj\Debug\LN.pdb
