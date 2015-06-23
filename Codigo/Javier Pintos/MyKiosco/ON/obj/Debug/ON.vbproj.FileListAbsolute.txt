@@ -1,0 +1,8 @@
+C:\GitHub\3ro-Programacion-III\Codigo\Javier Pintos\MyKiosco\ON\bin\Debug\ON.dll
+C:\GitHub\3ro-Programacion-III\Codigo\Javier Pintos\MyKiosco\ON\bin\Debug\ON.pdb
+C:\GitHub\3ro-Programacion-III\Codigo\Javier Pintos\MyKiosco\ON\bin\Debug\ON.xml
+C:\GitHub\3ro-Programacion-III\Codigo\Javier Pintos\MyKiosco\ON\obj\Debug\ON.Resources.resources
+C:\GitHub\3ro-Programacion-III\Codigo\Javier Pintos\MyKiosco\ON\obj\Debug\ON.vbproj.GenerateResource.Cache
+C:\GitHub\3ro-Programacion-III\Codigo\Javier Pintos\MyKiosco\ON\obj\Debug\ON.dll
+C:\GitHub\3ro-Programacion-III\Codigo\Javier Pintos\MyKiosco\ON\obj\Debug\ON.xml
+C:\GitHub\3ro-Programacion-III\Codigo\Javier Pintos\MyKiosco\ON\obj\Debug\ON.pdb

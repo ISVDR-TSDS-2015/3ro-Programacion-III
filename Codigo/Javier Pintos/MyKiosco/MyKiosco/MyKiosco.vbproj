@@ -218,6 +218,16 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LN\LN.vbproj">
+      <Project>{D5014554-46FD-4A5F-940F-F04B96F81C95}</Project>
+      <Name>LN</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ON\ON.vbproj">
+      <Project>{9D08A449-8D12-4C86-90D4-E4C3BF9FA2FC}</Project>
+      <Name>ON</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
   <ProjectExtensions>
