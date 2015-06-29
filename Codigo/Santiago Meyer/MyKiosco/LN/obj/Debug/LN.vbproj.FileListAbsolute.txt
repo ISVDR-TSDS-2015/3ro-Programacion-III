@@ -1,0 +1,15 @@
+C:\Users\pc1\Documents\GitHub\3ro-Programacion-III\Codigo\Santiago Meyer\MyKiosco\LN\bin\Debug\LN.dll
+C:\Users\pc1\Documents\GitHub\3ro-Programacion-III\Codigo\Santiago Meyer\MyKiosco\LN\bin\Debug\LN.pdb
+C:\Users\pc1\Documents\GitHub\3ro-Programacion-III\Codigo\Santiago Meyer\MyKiosco\LN\bin\Debug\LN.xml
+C:\Users\pc1\Documents\GitHub\3ro-Programacion-III\Codigo\Santiago Meyer\MyKiosco\LN\bin\Debug\AccesoDatos.dll
+C:\Users\pc1\Documents\GitHub\3ro-Programacion-III\Codigo\Santiago Meyer\MyKiosco\LN\bin\Debug\ObjetosNegocio.dll
+C:\Users\pc1\Documents\GitHub\3ro-Programacion-III\Codigo\Santiago Meyer\MyKiosco\LN\bin\Debug\AccesoDatos.pdb
+C:\Users\pc1\Documents\GitHub\3ro-Programacion-III\Codigo\Santiago Meyer\MyKiosco\LN\bin\Debug\AccesoDatos.xml
+C:\Users\pc1\Documents\GitHub\3ro-Programacion-III\Codigo\Santiago Meyer\MyKiosco\LN\bin\Debug\ObjetosNegocio.pdb
+C:\Users\pc1\Documents\GitHub\3ro-Programacion-III\Codigo\Santiago Meyer\MyKiosco\LN\bin\Debug\ObjetosNegocio.xml
+C:\Users\pc1\Documents\GitHub\3ro-Programacion-III\Codigo\Santiago Meyer\MyKiosco\LN\obj\Debug\LN.vbprojResolveAssemblyReference.cache
+C:\Users\pc1\Documents\GitHub\3ro-Programacion-III\Codigo\Santiago Meyer\MyKiosco\LN\obj\Debug\LN.Resources.resources
+C:\Users\pc1\Documents\GitHub\3ro-Programacion-III\Codigo\Santiago Meyer\MyKiosco\LN\obj\Debug\LN.vbproj.GenerateResource.Cache
+C:\Users\pc1\Documents\GitHub\3ro-Programacion-III\Codigo\Santiago Meyer\MyKiosco\LN\obj\Debug\LN.dll
+C:\Users\pc1\Documents\GitHub\3ro-Programacion-III\Codigo\Santiago Meyer\MyKiosco\LN\obj\Debug\LN.xml
+C:\Users\pc1\Documents\GitHub\3ro-Programacion-III\Codigo\Santiago Meyer\MyKiosco\LN\obj\Debug\LN.pdb
