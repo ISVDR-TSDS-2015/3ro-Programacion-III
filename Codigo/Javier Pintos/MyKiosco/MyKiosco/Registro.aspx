@@ -72,6 +72,16 @@
             </td>
         </tr>
         <tr>
+            <td>
+                Ciudad:<asp:RequiredFieldValidator ID="RequiredFieldValidator5" runat="server" 
+                    ControlToValidate="DropDownList1" ErrorMessage="*" ForeColor="Red"></asp:RequiredFieldValidator>
+            </td>
+            <td>
+                <asp:DropDownList ID="DropDownList1" runat="server">
+                </asp:DropDownList>
+            </td>
+        </tr>
+        <tr>
             <td colspan="2" align="right">
                 <asp:Button ID="btnRegistrar" runat="server" Text="Registrar" />
             </td>
