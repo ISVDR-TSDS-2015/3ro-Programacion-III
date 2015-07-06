@@ -1,0 +1,8 @@
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\ON\bin\Release\ON.dll
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\ON\bin\Release\ON.pdb
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\ON\bin\Release\ON.xml
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\ON\obj\Release\ON.Resources.resources
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\ON\obj\Release\ON.vbproj.GenerateResource.Cache
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\ON\obj\Release\ON.dll
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\ON\obj\Release\ON.xml
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\ON\obj\Release\ON.pdb

@@ -1,0 +1,12 @@
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\AD\bin\Release\AD.dll
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\AD\bin\Release\AD.pdb
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\AD\bin\Release\AD.xml
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\AD\bin\Release\ON.dll
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\AD\bin\Release\ON.pdb
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\AD\bin\Release\ON.xml
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\AD\obj\Release\AD.vbprojResolveAssemblyReference.cache
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\AD\obj\Release\AD.Resources.resources
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\AD\obj\Release\AD.vbproj.GenerateResource.Cache
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\AD\obj\Release\AD.dll
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\AD\obj\Release\AD.xml
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\AD\obj\Release\AD.pdb

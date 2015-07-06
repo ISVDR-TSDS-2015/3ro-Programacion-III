@@ -17,6 +17,8 @@
         <tr>
             <td>
                 <asp:Label ID="lblNombre" runat="server" Text="Nombre:"></asp:Label>
+                <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" 
+                    ControlToValidate="txtNombre" ErrorMessage="*" ForeColor="Red"></asp:RequiredFieldValidator>
             </td>
             <td>
                 <asp:TextBox ID="txtNombre" runat="server"></asp:TextBox>
@@ -25,6 +27,8 @@
         <tr>
             <td>
                 <asp:Label ID="lblUsuario" runat="server" Text="Usuario:"></asp:Label>
+                <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" 
+                    ControlToValidate="txtUsuario" ErrorMessage="*" ForeColor="Red"></asp:RequiredFieldValidator>
             </td>
             <td>
                 <asp:TextBox ID="txtUsuario" runat="server"></asp:TextBox>
@@ -33,6 +37,8 @@
         <tr>
             <td>
                 <asp:Label ID="lblPassword" runat="server" Text="Password:"></asp:Label>
+                <asp:RequiredFieldValidator ID="RequiredFieldValidator3" runat="server" 
+                    ControlToValidate="txtPassword" ErrorMessage="*" ForeColor="Red"></asp:RequiredFieldValidator>
             </td>
             <td>
                 <asp:TextBox ID="txtPassword" runat="server" TextMode="Password"></asp:TextBox>
@@ -49,9 +55,22 @@
         <tr>
             <td>
                 <asp:Label ID="lblEmail" runat="server" Text="E-Mail:"></asp:Label>
+                <asp:RequiredFieldValidator ID="RequiredFieldValidator4" runat="server" 
+                    ControlToValidate="txtEMail" ErrorMessage="*" ForeColor="Red"></asp:RequiredFieldValidator>
             </td>
             <td>
                 <asp:TextBox ID="txtEMail" runat="server" TextMode="Email"></asp:TextBox>
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="White">
+                Ciudad:<asp:RequiredFieldValidator ID="RequiredFieldValidator5" runat="server" 
+                    ControlToValidate="DropDownList1" ErrorMessage="RequiredFieldValidator" 
+                    ForeColor="Black"></asp:RequiredFieldValidator>
+            </td>
+            <td>
+                <asp:DropDownList ID="DropDownList1" runat="server">
+                </asp:DropDownList>
             </td>
         </tr>
         <tr>

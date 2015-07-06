@@ -99,6 +99,7 @@
     <Content Include="Scripts\jquery-1.4.1-vsdoc.js" />
     <Content Include="Scripts\jquery-1.4.1.js" />
     <Content Include="Scripts\jquery-1.4.1.min.js" />
+    <Content Include="Verkiosco.aspx" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -193,6 +194,13 @@
       <DependentUpon>Site.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
+    <Compile Include="Verkiosco.aspx.designer.vb">
+      <DependentUpon>Verkiosco.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Verkiosco.aspx.vb">
+      <DependentUpon>Verkiosco.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="My Project\Resources.resx">
@@ -217,6 +225,16 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LN\LN.vbproj">
+      <Project>{0F2FD14A-E872-4A2B-A02A-3511CE2F693C}</Project>
+      <Name>LN</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ON\ON.vbproj">
+      <Project>{9E121C58-508C-4A06-A914-FBD97EBF0A61}</Project>
+      <Name>ON</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />

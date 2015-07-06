@@ -8,7 +8,7 @@
         Acerca de
         MyKiosco.com</h2>
     <p>
-        Desarrollado por Javier Pintos.
+        Desarrollado por Juan Marino.
     </p>
     <p>
         Para Programación III - Tecnicatura Superior en Desarrollo de Software - Instituto Superior Villa del Rosario</p>

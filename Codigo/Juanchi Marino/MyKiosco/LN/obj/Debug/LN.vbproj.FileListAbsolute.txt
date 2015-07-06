@@ -1,0 +1,15 @@
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\LN\bin\Debug\LN.dll
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\LN\bin\Debug\LN.pdb
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\LN\bin\Debug\LN.xml
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\LN\bin\Debug\AD.dll
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\LN\bin\Debug\ON.dll
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\LN\bin\Debug\AD.pdb
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\LN\bin\Debug\AD.xml
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\LN\bin\Debug\ON.pdb
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\LN\bin\Debug\ON.xml
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\LN\obj\Debug\LN.vbprojResolveAssemblyReference.cache
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\LN\obj\Debug\LN.Resources.resources
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\LN\obj\Debug\LN.vbproj.GenerateResource.Cache
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\LN\obj\Debug\LN.dll
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\LN\obj\Debug\LN.xml
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\LN\obj\Debug\LN.pdb

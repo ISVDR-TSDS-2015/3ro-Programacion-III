@@ -14,3 +14,21 @@ C:\Users\Javier\Documents\Trabajo\Docencia\Instituto de Molineria\Tecnicatura en
 C:\Users\Javier\Documents\Trabajo\Docencia\Instituto de Molineria\Tecnicatura en Desarrollo de Software\3er Nivel\Programación III\2015\Repositorio\3ro-Programacion-III\Codigo\Javier Pintos\MyKiosco\MyKiosco\obj\Debug\MyKiosco.dll
 C:\Users\Javier\Documents\Trabajo\Docencia\Instituto de Molineria\Tecnicatura en Desarrollo de Software\3er Nivel\Programación III\2015\Repositorio\3ro-Programacion-III\Codigo\Javier Pintos\MyKiosco\MyKiosco\obj\Debug\MyKiosco.xml
 C:\Users\Javier\Documents\Trabajo\Docencia\Instituto de Molineria\Tecnicatura en Desarrollo de Software\3er Nivel\Programación III\2015\Repositorio\3ro-Programacion-III\Codigo\Javier Pintos\MyKiosco\MyKiosco\obj\Debug\MyKiosco.pdb
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\MyKiosco\bin\MyKiosco.dll
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\MyKiosco\bin\MyKiosco.pdb
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\MyKiosco\bin\MyKiosco.xml
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\MyKiosco\bin\LN.dll
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\MyKiosco\bin\ON.dll
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\MyKiosco\bin\AD.dll
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\MyKiosco\bin\LN.pdb
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\MyKiosco\bin\LN.xml
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\MyKiosco\bin\ON.pdb
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\MyKiosco\bin\ON.xml
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\MyKiosco\bin\AD.pdb
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\MyKiosco\bin\AD.xml
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\MyKiosco\obj\Debug\MyKiosco.vbprojResolveAssemblyReference.cache
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\MyKiosco\obj\Debug\MyKiosco.Resources.resources
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\MyKiosco\obj\Debug\MyKiosco.vbproj.GenerateResource.Cache
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\MyKiosco\obj\Debug\MyKiosco.dll
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\MyKiosco\obj\Debug\MyKiosco.xml
+C:\GitHub\3ro-Programacion-III\Codigo\Juanchi Marino\MyKiosco\MyKiosco\obj\Debug\MyKiosco.pdb
