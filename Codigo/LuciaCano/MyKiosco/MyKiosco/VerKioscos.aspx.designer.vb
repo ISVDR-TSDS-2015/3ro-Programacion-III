@@ -11,14 +11,14 @@ Option Strict On
 Option Explicit On
 
 
-Partial Public Class _Default
+Partial Public Class VerKioscos
 
     '''<summary>
-    '''btnRegistro control.
+    '''Grl_VerKioscos control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents btnRegistro As Global.System.Web.UI.WebControls.Button
+    Protected WithEvents Grl_VerKioscos As Global.System.Web.UI.WebControls.GridView
 End Class

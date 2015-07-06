@@ -30,6 +30,14 @@ Control RegisterUserWizardStep.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
+</member><member name="F:MyKiosco.VerKioscos.Grl_VerKioscos">
+	<summary>
+Grl_VerKioscos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
 </member><member name="P:MyKiosco.My.MyWebExtension.Application">
 	<summary>
  Devuelve información sobre la aplicación actual.
@@ -191,6 +199,30 @@ RequiredFieldValidator4 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
+</member><member name="F:MyKiosco.Registro.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyKiosco.Registro.Cbo_Ciudades">
+	<summary>
+Cbo_Ciudades control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyKiosco.Registro.RequiredFieldValidator6">
+	<summary>
+RequiredFieldValidator6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
 </member><member name="F:MyKiosco.Registro.btnRegistrar">
 	<summary>
 btnRegistrar control.
@@ -217,43 +249,43 @@ Para modificarlo, mueva la declaración del campo del archivo del diseñador al 
 </remarks>
 </member><member name="F:MyKiosco._Default.btnRegistro">
 	<summary>
-Control btnRegistro.
+btnRegistro control.
 </summary>
 	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member><member name="F:MyKiosco.Site.HeadContent">
 	<summary>
-Control HeadContent.
+HeadContent control.
 </summary>
 	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member><member name="F:MyKiosco.Site.HeadLoginView">
 	<summary>
-Control HeadLoginView.
+HeadLoginView control.
 </summary>
 	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member><member name="F:MyKiosco.Site.NavigationMenu">
 	<summary>
-Control NavigationMenu.
+NavigationMenu control.
 </summary>
 	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member><member name="F:MyKiosco.Site.MainContent">
 	<summary>
-Control MainContent.
+MainContent control.
 </summary>
 	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
 </members>

@@ -1,12 +1,20 @@
 ﻿<%@ Page Title="" Language="vb" AutoEventWireup="false" MasterPageFile="~/Site.Master" CodeBehind="Registro.aspx.vb" Inherits="MyKiosco.Registro" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
+    <style type="text/css">
+        .style1
+        {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: medium;
+            color: #CC66FF;
+        }
+    </style>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
 
     <table>
         <tr>
             <td colspan="2">
-                <h3>Registro de Kiosco</h3>
+                <h3 class="style1">Registro de Kiosco</h3>
             </td>
         </tr>
         <tr>
@@ -65,6 +73,18 @@
                 <asp:TextBox ID="txtEMail" runat="server" TextMode="Email"></asp:TextBox>
                 <asp:RequiredFieldValidator ID="RequiredFieldValidator4" runat="server" 
                     ControlToValidate="txtEMail" ErrorMessage="*" ForeColor="Red"></asp:RequiredFieldValidator>
+            </td>
+        </tr>
+
+         <tr>
+            <td>
+                <asp:Label ID="Label1" runat="server" Text="Ciudad:"></asp:Label>
+            </td>
+            <td>
+                <asp:DropDownList ID="Cbo_Ciudades" runat="server">
+                </asp:DropDownList>
+                <asp:RequiredFieldValidator ID="RequiredFieldValidator6" runat="server" 
+                    ControlToValidate="Cbo_Ciudades" ErrorMessage="*" ForeColor="Red"></asp:RequiredFieldValidator>
             </td>
         </tr>
         <tr>

@@ -32,6 +32,7 @@
                     <Items>
                         <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Página principal"/>
                         <asp:MenuItem NavigateUrl="~/Menu.aspx" Text="My Kiosco"/>
+                        <asp:MenuItem NavigateUrl="~/VerKioscos.aspx" Text="Ver Kiosco"/>
                         <asp:MenuItem NavigateUrl="~/Enunciado.aspx" Text="Enunciado del Ejercicio"/>
                         <asp:MenuItem NavigateUrl="~/About.aspx" Text="Acerca de"/>
                     </Items>

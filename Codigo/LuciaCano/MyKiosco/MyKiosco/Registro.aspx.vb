@@ -9,6 +9,12 @@ Public Class Registro
 
         If Not IsPostBack Then
             GestorRegistrarKiosco = New RegistrarKioscoLN()
+
+            Cbo_Ciudades.DataSource = GestorRegistrarKiosco.ListaCiudades
+            Cbo_Ciudades.DataTextField = "Nombre"
+            Cbo_Ciudades.DataValueField = "Id"
+            Cbo_Ciudades.DataBind()
+
             Session.Add("RegistrarKioscoLN", GestorRegistrarKiosco)
         Else
             GestorRegistrarKiosco = CType(Session("RegistrarKioscoLN"), RegistrarKioscoLN)
@@ -18,8 +24,10 @@ Public Class Registro
     Protected Sub btnRegistrar_Click(sender As Object, e As EventArgs) Handles btnRegistrar.Click
 
         If IsValid Then
-            GestorRegistrarKiosco.RegistrarKiosco(txtUsuario.Text, txtPassword.Text, txtNombre.Text, txtEMail.Text)
+            GestorRegistrarKiosco.RegistrarKiosco(txtUsuario.Text, txtPassword.Text, txtNombre.Text, txtEMail.Text, Cbo_Ciudades.SelectedItem.Value)
         End If
+
+        MsgBox("El Kiosco se cargó correctamente", MsgBoxStyle.Information, "Aviso")
 
     End Sub
 End Class
