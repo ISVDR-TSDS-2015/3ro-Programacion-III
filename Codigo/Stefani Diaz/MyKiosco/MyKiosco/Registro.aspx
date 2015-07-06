@@ -81,6 +81,18 @@
             </td>
         </tr>
         <tr>
+            <td class="style4">
+                <asp:Label ID="Label1" runat="server" Text="Ciudad"></asp:Label>
+            </td>
+            <td class="style5">
+                <asp:DropDownList ID="DropDownList1" runat="server" 
+                    Height="21px" Width="130px">
+                </asp:DropDownList>
+                <asp:RequiredFieldValidator ID="RequiredFieldValidator5" runat="server" 
+                    ForeColor="Red" ControlToValidate="DropDownList1">*</asp:RequiredFieldValidator>
+            </td>
+        </tr>
+        <tr>
             <td colspan="2" align="right">
                 <asp:Button ID="btnRegistrar" runat="server" Text="Registrar" />
             </td>

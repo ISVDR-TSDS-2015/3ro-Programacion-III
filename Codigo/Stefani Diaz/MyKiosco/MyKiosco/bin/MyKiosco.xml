@@ -111,6 +111,14 @@ Control btnRegistro.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
+</member><member name="F:MyKiosco.VerKioscos1.GrlGrilla">
+	<summary>
+Control GrlGrilla.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
 </member><member name="F:MyKiosco.ChangePassword.ChangeUserPassword">
 	<summary>
 Control ChangeUserPassword.
@@ -234,6 +242,30 @@ Para modificarlo, mueva la declaración del campo del archivo del diseñador al 
 </member><member name="F:MyKiosco.Registro.RequiredFieldValidator4">
 	<summary>
 Control RequiredFieldValidator4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:MyKiosco.Registro.Label1">
+	<summary>
+Control Label1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:MyKiosco.Registro.DropDownList1">
+	<summary>
+Control DropDownList1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:MyKiosco.Registro.RequiredFieldValidator5">
+	<summary>
+Control RequiredFieldValidator5.
 </summary>
 	<remarks>
 Campo generado automáticamente.
