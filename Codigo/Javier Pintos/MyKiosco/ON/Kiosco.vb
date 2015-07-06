@@ -37,4 +37,10 @@
         EMail = _email
         Ciudad = _ciudad
     End Sub
+
+    Public ReadOnly Property NombreCiudad As String
+        Get
+            Return Ciudad.Nombre
+        End Get
+    End Property
 End Class

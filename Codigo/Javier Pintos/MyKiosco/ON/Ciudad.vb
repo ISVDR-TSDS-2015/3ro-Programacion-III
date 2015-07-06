@@ -10,4 +10,5 @@
         Id = _id
         Nombre = _nombre
     End Sub
+
 End Class

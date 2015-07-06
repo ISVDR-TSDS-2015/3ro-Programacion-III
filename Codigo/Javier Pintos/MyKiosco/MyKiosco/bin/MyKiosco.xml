@@ -6,15 +6,7 @@ MyKiosco
 </name>
 </assembly>
 <members>
-<member name="F:MyKiosco.VerKioscos.GridView1">
-	<summary>
-Control GridView1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:MyKiosco.ChangePassword.ChangeUserPassword">
+<member name="F:MyKiosco.ChangePassword.ChangeUserPassword">
 	<summary>
 Control ChangeUserPassword.
 </summary>
@@ -233,6 +225,14 @@ Para modificarlo, mueva la declaración del campo del archivo del diseñador al 
 </member><member name="F:MyKiosco.Register.RegisterUserWizardStep">
 	<summary>
 Control RegisterUserWizardStep.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:MyKiosco.VerKioscos.GridView1">
+	<summary>
+Control GridView1.
 </summary>
 	<remarks>
 Campo generado automáticamente.

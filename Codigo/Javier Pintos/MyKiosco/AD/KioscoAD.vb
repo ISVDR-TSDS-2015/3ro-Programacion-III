@@ -13,8 +13,8 @@ Public Class KioscoAD
         Dim query As String
 
         query = "INSERT INTO Kioscos " & _
-            "(kio_usuario, kio_password, kio_nombre, kio_email) VALUES " & _
-            "(@kio_usuario, @kio_password, @kio_nombre, @kio_email)"
+            "(kio_usuario, kio_password, kio_nombre, kio_email, kio_ciu_id) VALUES " & _
+            "(@kio_usuario, @kio_password, @kio_nombre, @kio_email, @kio_ciu_id)"
 
         conexion.Open()
         comando = New SqlCommand(query, conexion)
@@ -24,6 +24,7 @@ Public Class KioscoAD
         comando.Parameters.AddWithValue("@kio_password", kiosco.Password)
         comando.Parameters.AddWithValue("@kio_nombre", kiosco.Nombre)
         comando.Parameters.AddWithValue("@kio_email", kiosco.EMail)
+        comando.Parameters.AddWithValue("@kio_ciu_id", kiosco.Ciudad.Id)
 
         'ejecutamos el comando
         comando.ExecuteNonQuery()
@@ -42,7 +43,7 @@ Public Class KioscoAD
         Dim query As String
 
         query = "SELECT kio_id, kio_usuario, kio_password, kio_nombre, " & _
-            "kio_activo, kio_email " & _
+            "kio_activo, kio_email, kio_ciu_id " & _
             "FROM Kioscos ORDER BY kio_nombre"
 
         conexion.Open()
@@ -59,7 +60,8 @@ Public Class KioscoAD
                                         dataReader.GetString(2), _
                                         dataReader.GetString(3), _
                                         dataReader.GetBoolean(4), _
-                                        dataReader.GetString(5), Nothing))
+                                        dataReader.GetString(5), _
+                                        CiudadAD.BuscarPorId(dataReader.GetInt32(6))))
 
         End While
 

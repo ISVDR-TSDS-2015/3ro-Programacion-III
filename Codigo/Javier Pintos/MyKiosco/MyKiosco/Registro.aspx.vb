@@ -23,6 +23,7 @@ Public Class Registro
         If IsValid Then
             gestorRegistrarKiosco.RegistrarKiosco(txtUsuario.Text, txtPassword.Text, _
                                               txtNombre.Text, txtEMail.Text, DropDownList1.SelectedItem.Value)
+            Response.Redirect("VerKioscos.aspx")
         End If
     End Sub
 End Class

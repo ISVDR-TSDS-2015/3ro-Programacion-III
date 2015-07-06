@@ -32,4 +32,33 @@ Public Class CiudadAD
 
     End Function
 
+    Shared Function BuscarPorId(_id As Integer) As Ciudad
+        'Abrir la Base de Datos
+        Dim conexion As New SqlConnection
+        conexion.ConnectionString = "Data Source=WIFILSON;Initial Catalog=MyKiosco;User ID=sa;Password=sa"
+
+        'llamar a la inserción
+        Dim comando As SqlCommand
+        Dim query As String
+
+        query = "SELECT ciu_id, ciu_nombre " & _
+            "FROM Ciudades WHERE ciu_id=@ciu_id"
+
+        conexion.Open()
+        comando = New SqlCommand(query, conexion)
+        comando.Parameters.AddWithValue("@ciu_id", _id)
+
+        Dim ciudad As New Ciudad
+        Dim dataReader As SqlDataReader
+
+        dataReader = comando.ExecuteReader()
+
+        While (dataReader.Read())
+            ciudad = New Ciudad(dataReader.GetInt32(0), _
+                                        dataReader.GetString(1))
+        End While
+
+        Return ciudad
+    End Function
+
 End Class
