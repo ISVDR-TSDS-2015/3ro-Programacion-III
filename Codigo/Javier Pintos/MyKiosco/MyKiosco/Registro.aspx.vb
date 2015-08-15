@@ -22,7 +22,8 @@ Public Class Registro
     Protected Sub btnRegistrar_Click(ByVal sender As Object, ByVal e As EventArgs) Handles btnRegistrar.Click
         If IsValid Then
             gestorRegistrarKiosco.RegistrarKiosco(txtUsuario.Text, txtPassword.Text, _
-                                              txtNombre.Text, txtEMail.Text, DropDownList1.SelectedItem.Value)
+                                              txtNombre.Text, txtEMail.Text, _
+                                              DropDownList1.SelectedItem.Value)
             Response.Redirect("VerKioscos.aspx")
         End If
     End Sub

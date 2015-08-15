@@ -1,4 +1,5 @@
 ﻿Imports System.Web.SessionState
+Imports System.Security.Principal
 
 Public Class Global_asax
     Inherits System.Web.HttpApplication
@@ -17,6 +18,12 @@ Public Class Global_asax
 
     Sub Application_AuthenticateRequest(ByVal sender As Object, ByVal e As EventArgs)
         ' Se desencadena al intentar autenticar el uso
+
+        ' Creo un objeto Identity y lo vinculo al Context
+        Dim KioscoGenerico As New GenericIdentity("KioscoGenerico")
+        Dim principal As New GenericPrincipal(KioscoGenerico, New String() {"USUARIO"})
+        Context.User = principal
+
     End Sub
 
     Sub Application_Error(ByVal sender As Object, ByVal e As EventArgs)

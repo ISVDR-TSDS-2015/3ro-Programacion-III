@@ -6,7 +6,55 @@ MyKiosco
 </name>
 </assembly>
 <members>
-<member name="F:MyKiosco.ChangePassword.ChangeUserPassword">
+<member name="F:MyKiosco.Login1.Label1">
+	<summary>
+Control Label1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:MyKiosco.Login1.txtUsuario">
+	<summary>
+Control txtUsuario.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:MyKiosco.Login1.Label2">
+	<summary>
+Control Label2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:MyKiosco.Login1.txtContrasenia">
+	<summary>
+Control txtContrasenia.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:MyKiosco.Login1.cmdAceptar">
+	<summary>
+Control cmdAceptar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:MyKiosco.Login1.lblResultado">
+	<summary>
+Control lblResultado.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:MyKiosco.ChangePassword.ChangeUserPassword">
 	<summary>
 Control ChangeUserPassword.
 </summary>

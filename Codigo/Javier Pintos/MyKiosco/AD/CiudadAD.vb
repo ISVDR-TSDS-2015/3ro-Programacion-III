@@ -6,7 +6,8 @@ Public Class CiudadAD
     Shared Function BuscarTodos() As List(Of Ciudad)
         'Abrir la Base de Datos
         Dim conexion As New SqlConnection
-        conexion.ConnectionString = "Data Source=WIFILSON;Initial Catalog=MyKiosco;User ID=sa;Password=sa"
+        'conexion.ConnectionString = "Data Source=WIFILSON;Initial Catalog=MyKiosco;User ID=sa;Password=sa"
+        conexion.ConnectionString = System.Configuration.ConfigurationManager.ConnectionStrings("SQLServer").ToString()
 
         'llamar a la inserción
         Dim comando As SqlCommand
@@ -35,7 +36,7 @@ Public Class CiudadAD
     Shared Function BuscarPorId(_id As Integer) As Ciudad
         'Abrir la Base de Datos
         Dim conexion As New SqlConnection
-        conexion.ConnectionString = "Data Source=WIFILSON;Initial Catalog=MyKiosco;User ID=sa;Password=sa"
+        conexion.ConnectionString = System.Configuration.ConfigurationManager.ConnectionStrings("SQLServer").ToString()
 
         'llamar a la inserción
         Dim comando As SqlCommand
