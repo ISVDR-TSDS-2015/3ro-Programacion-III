@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\GitHub\3ro-Programacion-III\Codigo\Javier Pintos\Release\v0.1" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Perfil1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/LN.pdb" publishTime="09/04/2015 17:41:59" />
+    <file relUrl="Global.asax" publishTime="07/06/2015 19:59:50" />
+    <file relUrl="Site.Master" publishTime="08/24/2015 18:39:48" />
+    <file relUrl="Styles/Site.css" publishTime="07/06/2015 19:59:50" />
+    <file relUrl="bin/ON.dll" publishTime="08/24/2015 18:39:51" />
+    <file relUrl="About.aspx" publishTime="07/06/2015 19:59:50" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="07/06/2015 19:59:50" />
+    <file relUrl="bin/MyKiosco.dll" publishTime="09/04/2015 20:15:50" />
+    <file relUrl="bin/AD.pdb" publishTime="09/04/2015 16:23:24" />
+    <file relUrl="bin/AD.xml" publishTime="09/04/2015 16:23:24" />
+    <file relUrl="bin/ON.pdb" publishTime="08/24/2015 18:39:51" />
+    <file relUrl="bin/MyKiosco.xml" publishTime="09/04/2015 20:15:50" />
+    <file relUrl="Registro.aspx" publishTime="07/06/2015 19:59:50" />
+    <file relUrl="bin/MyKiosco.pdb" publishTime="09/04/2015 20:15:50" />
+    <file relUrl="Account/Web.config" publishTime="07/06/2015 19:59:50" />
+    <file relUrl="Account/Register.aspx" publishTime="07/06/2015 19:59:50" />
+    <file relUrl="Account/Login.aspx" publishTime="07/06/2015 19:59:50" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="07/06/2015 19:59:50" />
+    <file relUrl="bin/ON.xml" publishTime="08/24/2015 18:39:51" />
+    <file relUrl="Default.aspx" publishTime="07/06/2015 19:59:50" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx" publishTime="07/06/2015 19:59:50" />
+    <file relUrl="Account/ChangePassword.aspx" publishTime="07/06/2015 19:59:50" />
+    <file relUrl="Login.aspx" publishTime="08/03/2015 19:44:55" />
+    <file relUrl="bin/AD.dll" publishTime="09/04/2015 16:23:24" />
+    <file relUrl="Web.config" publishTime="09/04/2015 16:16:44" />
+    <file relUrl="WSMyKiosco.asmx" publishTime="09/04/2015 17:00:47" />
+    <file relUrl="bin/LN.dll" publishTime="09/04/2015 17:41:59" />
+    <file relUrl="Enunciado.aspx" publishTime="07/06/2015 19:59:50" />
+    <file relUrl="bin/LN.xml" publishTime="09/04/2015 17:41:59" />
+    <file relUrl="VerKioscos.aspx" publishTime="07/06/2015 19:59:50" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="07/06/2015 19:59:50" />
+  </publishProfile>
+</publishData>

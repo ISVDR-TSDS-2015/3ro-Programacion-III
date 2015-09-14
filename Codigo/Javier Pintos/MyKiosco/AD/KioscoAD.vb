@@ -106,4 +106,40 @@ Public Class KioscoAD
         Return kiosco
     End Function
 
+    Shared Function BuscarPorNombre(nombre As String) As List(Of Kiosco)
+        'Abrir la Base de Datos
+        Dim conexion As New SqlConnection
+        conexion.ConnectionString = System.Configuration.ConfigurationManager.ConnectionStrings("SQLServer").ToString()
+
+        'llamar a la inserción
+        Dim comando As SqlCommand
+        Dim query As String
+
+        query = "SELECT kio_id, kio_usuario, kio_password, kio_nombre, " & _
+            "kio_activo, kio_email, kio_ciu_id " & _
+            "FROM Kioscos WHERE kio_nombre LIKE @nombre ORDER BY kio_nombre"
+
+        conexion.Open()
+        comando = New SqlCommand(query, conexion)
+        comando.Parameters.AddWithValue("@nombre", "%" + nombre + "%")
+
+        Dim listaKioscos As New List(Of Kiosco)
+        Dim dataReader As SqlDataReader
+
+        dataReader = comando.ExecuteReader()
+
+        While (dataReader.Read())
+            listaKioscos.Add(New Kiosco(dataReader.GetInt32(0), _
+                                        dataReader.GetString(1), _
+                                        dataReader.GetString(2), _
+                                        dataReader.GetString(3), _
+                                        dataReader.GetBoolean(4), _
+                                        dataReader.GetString(5), _
+                                        CiudadAD.BuscarPorId(dataReader.GetInt32(6))))
+
+        End While
+
+        Return listaKioscos
+    End Function
+
 End Class

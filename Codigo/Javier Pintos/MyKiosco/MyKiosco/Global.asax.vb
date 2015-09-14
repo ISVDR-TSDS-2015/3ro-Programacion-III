@@ -19,9 +19,25 @@ Public Class Global_asax
     Sub Application_AuthenticateRequest(ByVal sender As Object, ByVal e As EventArgs)
         ' Se desencadena al intentar autenticar el uso
 
+        ' Recupera la cookie
+        Dim authCookie As HttpCookie = Context.Request.Cookies(".MyKiosco")
+
+        ' Si no existe termina
+        If IsNothing(authCookie) Then
+            Return
+        End If
+
+        ' Desencriptamos el ticket
+        Dim autTicket As FormsAuthenticationTicket = Nothing
+        autTicket = FormsAuthentication.Decrypt(authCookie.Value)
+
+        ' Separo los datos
+        Dim usuario As String() = autTicket.UserData.Split("|") ' Username | Rol | Rol
+
         ' Creo un objeto Identity y lo vinculo al Context
-        Dim KioscoGenerico As New GenericIdentity("KioscoGenerico")
-        Dim principal As New GenericPrincipal(KioscoGenerico, New String() {"USUARIO"})
+        Dim KioscoGenerico As New GenericIdentity(usuario(0))
+        Dim roles As String() = New String() {usuario(1)}
+        Dim principal As New GenericPrincipal(KioscoGenerico, roles)
         Context.User = principal
 
     End Sub

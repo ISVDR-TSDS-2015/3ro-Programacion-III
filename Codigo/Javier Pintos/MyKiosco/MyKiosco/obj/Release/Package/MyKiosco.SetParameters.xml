@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="Default Web Site/MyKiosco_deploy" />
+  <setParameter name="ApplicationServices-Web.config Connection String" value="data source=.\SQLEXPRESS;Integrated Security=SSPI;AttachDBFilename=|DataDirectory|\aspnetdb.mdf;User Instance=true" />
+  <setParameter name="SQLServer-Web.config Connection String" value="Data Source=WIFILSON;Initial Catalog=MyKiosco;User ID=sa;Password=sa" />
+</parameters>

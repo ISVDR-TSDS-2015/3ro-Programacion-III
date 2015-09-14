@@ -23,13 +23,31 @@ Partial Public Class Site
     Protected WithEvents HeadContent As Global.System.Web.UI.WebControls.ContentPlaceHolder
 
     '''<summary>
-    '''Control HeadLoginView.
+    '''Control lblUsuario.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents HeadLoginView As Global.System.Web.UI.WebControls.LoginView
+    Protected WithEvents lblUsuario As Global.System.Web.UI.WebControls.Label
+
+    '''<summary>
+    '''Control cmdLogin.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents cmdLogin As Global.System.Web.UI.WebControls.Button
+
+    '''<summary>
+    '''Control cmdLogout.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents cmdLogout As Global.System.Web.UI.WebControls.Button
 
     '''<summary>
     '''Control NavigationMenu.
