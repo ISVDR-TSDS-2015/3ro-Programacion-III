@@ -6,8 +6,8 @@ Public Class CiudadAD
 
         'abrir la base de datos
         Dim conexion As New SqlConnection
-        conexion.ConnectionString = "Data Source=Lucia-Pc;Initial Catalog='MiKiosco';User ID=sa;Password=esea"
-
+        'conexion.ConnectionString = "Data Source=Lucia-Pc;Initial Catalog='MiKiosco';User ID=sa;Password=esea"
+        conexion.ConnectionString = System.Configuration.ConfigurationManager.ConnectionStrings("SQLServer").ToString()
 
         'iniciar una transaccion
 
@@ -36,8 +36,8 @@ Public Class CiudadAD
     Shared Function BuscarPorId(id As Integer) As Ciudad
 
         Dim conexion As New SqlConnection
-        conexion.ConnectionString = "Data Source=Lucia-Pc;Initial Catalog='MiKiosco';User ID=sa;Password=esea"
-
+        'conexion.ConnectionString = "Data Source=Lucia-Pc;Initial Catalog='MiKiosco';User ID=sa;Password=esea"
+        conexion.ConnectionString = System.Configuration.ConfigurationManager.ConnectionStrings("SQLServer").ToString()
         Dim comando As SqlCommand
         Dim query As String
         query = "SELECT ciu_id, ciu_nombre FROM Ciudades WHERE Ciu_id=@Ciu_id ORDER BY Ciu_id"

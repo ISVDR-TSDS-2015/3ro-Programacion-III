@@ -23,13 +23,31 @@ Partial Public Class Site
     Protected WithEvents HeadContent As Global.System.Web.UI.WebControls.ContentPlaceHolder
 
     '''<summary>
-    '''HeadLoginView control.
+    '''LblUsuario control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents HeadLoginView As Global.System.Web.UI.WebControls.LoginView
+    Protected WithEvents LblUsuario As Global.System.Web.UI.WebControls.Label
+
+    '''<summary>
+    '''CmdLogin control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents CmdLogin As Global.System.Web.UI.WebControls.Button
+
+    '''<summary>
+    '''CmdLogout control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents CmdLogout As Global.System.Web.UI.WebControls.Button
 
     '''<summary>
     '''NavigationMenu control.

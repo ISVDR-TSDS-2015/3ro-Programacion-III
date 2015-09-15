@@ -11,4 +11,11 @@ Public Class VerKioscosLN
 
     End Sub
 
+    Public Sub New(nombre As String)
+
+        ListaKioscos = KioscoAD.BuscarPorNombre(nombre)
+
+    End Sub
+
+
 End Class

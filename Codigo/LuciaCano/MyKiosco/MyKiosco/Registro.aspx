@@ -14,7 +14,7 @@
     <table>
         <tr>
             <td colspan="2">
-                <h3 class="style1">Registro de Kiosco</h3>
+                <h3 class="style1">REGISTRO DE KIOSCO</h3>
             </td>
         </tr>
         <tr>

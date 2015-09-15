@@ -17,23 +17,18 @@
                 <h1>¡¡¡MY Kiosco!!!</h1>
             </div>
             <div class="loginDisplay">
-                <asp:LoginView ID="HeadLoginView" runat="server" EnableViewState="false">
-                    <AnonymousTemplate>
-                        [ <a href="~/Account/Login.aspx" ID="HeadLoginStatus" runat="server">Iniciar sesión</a> ]
-                    </AnonymousTemplate>
-                    <LoggedInTemplate>
-                        Pantalla de bienvenida <span class="bold"><asp:LoginName ID="HeadLoginName" runat="server" /></span>!
-                        [ <asp:LoginStatus ID="HeadLoginStatus" runat="server" LogoutAction="Redirect" LogoutText="Cerrar sesión" LogoutPageUrl="~/"/> ]
-                    </LoggedInTemplate>
-                </asp:LoginView>
+                <asp:Label ID="LblUsuario" runat="server" Text="" Visible="false"></asp:Label>  
+                <asp:Button ID="CmdLogin" runat="server" Text="Iniciar Sesión" Visible="false" />
+                <asp:Button ID="CmdLogout" runat="server" Text="Cerrar Sesión" Visible="false" />
             </div>
             <div class="clear hideSkiplink">
                 <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal">
                     <Items>
                         <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Página principal"/>
-                        <asp:MenuItem NavigateUrl="~/Menu.aspx" Text="My Kiosco"/>
+                        <asp:MenuItem NavigateUrl="~/Menu.aspx" Text="Menu"/>
                         <asp:MenuItem NavigateUrl="~/VerKioscos.aspx" Text="Ver Kiosco"/>
                         <asp:MenuItem NavigateUrl="~/Enunciado.aspx" Text="Enunciado del Ejercicio"/>
+                        <asp:MenuItem NavigateUrl="~/Login.aspx" Text="Login"/>
                         <asp:MenuItem NavigateUrl="~/About.aspx" Text="Acerca de"/>
                     </Items>
                 </asp:Menu>

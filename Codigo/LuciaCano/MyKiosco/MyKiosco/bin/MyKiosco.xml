@@ -38,6 +38,54 @@ Grl_VerKioscos control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
+</member><member name="F:MyKiosco.Login1.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyKiosco.Login1.TxtUsuario">
+	<summary>
+TxtUsuario control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyKiosco.Login1.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyKiosco.Login1.TxtContrasenia">
+	<summary>
+TxtContrasenia control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyKiosco.Login1.CmdAceptar">
+	<summary>
+CmdAceptar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyKiosco.Login1.LblResultado">
+	<summary>
+LblResultado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
 </member><member name="P:MyKiosco.My.MyWebExtension.Application">
 	<summary>
  Devuelve información sobre la aplicación actual.
@@ -71,6 +119,30 @@ To modify move field declaration from designer file to code-behind file.
  Módulo usado para definir las propiedades que están disponibles en el espacio de nombres My para proyectos web.
  </summary>
 	<remarks></remarks>
+</member><member name="F:MyKiosco.Menu.Productos">
+	<summary>
+Productos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyKiosco.Menu.CmdCompras">
+	<summary>
+CmdCompras control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyKiosco.Menu.Ventas">
+	<summary>
+Button3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
 </member><member name="F:MyKiosco.Registro.lblNombre">
 	<summary>
 lblNombre control.
@@ -263,9 +335,25 @@ HeadContent control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:MyKiosco.Site.HeadLoginView">
+</member><member name="F:MyKiosco.Site.LblUsuario">
 	<summary>
-HeadLoginView control.
+LblUsuario control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyKiosco.Site.CmdLogin">
+	<summary>
+CmdLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyKiosco.Site.CmdLogout">
+	<summary>
+CmdLogout control.
 </summary>
 	<remarks>
 Auto-generated field.
@@ -282,6 +370,70 @@ To modify move field declaration from designer file to code-behind file.
 </member><member name="F:MyKiosco.Site.MainContent">
 	<summary>
 MainContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyKiosco.Productos.GridView1">
+	<summary>
+GridView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyKiosco.Productos.TxtNombre">
+	<summary>
+TxtNombre control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyKiosco.Productos.TxtStock">
+	<summary>
+TxtStock control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyKiosco.Productos.CmbUnidad">
+	<summary>
+CmbUnidad control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyKiosco.Productos.CmdAceptar">
+	<summary>
+CmdAceptar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyKiosco.Productos.CmdCancelar">
+	<summary>
+CmdCancelar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyKiosco.Productos.CmdEliminar">
+	<summary>
+CmdEliminar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyKiosco.Productos.Label1">
+	<summary>
+Label1 control.
 </summary>
 	<remarks>
 Auto-generated field.
